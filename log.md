@@ -17,3 +17,12 @@
 **Thoughts:** Most of the times I am not able to solve the problem just because I skim throught what is written. If I could go ahead with more concentration it would've been easier.
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops
+
+### Day 3: February 28, 2022
+##### Second Day of this Challenge
+
+**Today's Progress**: Completed 1 problem of the Basic Data Structures section of Javascript Algorithms and Data Structure.
+
+**Thoughts:** Need to manage time much better
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/create-complex-multi-dimensional-arrays
