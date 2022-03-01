@@ -19,10 +19,20 @@
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops
 
 ### Day 3: February 28, 2022
-##### Second Day of this Challenge
+##### Third Day of this Challenge
 
 **Today's Progress**: Completed 1 problem of the Basic Data Structures section of Javascript Algorithms and Data Structure.
 
 **Thoughts:** Need to manage time much better
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/create-complex-multi-dimensional-arrays
+
+### Day 4: March 1, 2022
+##### Fourth Day of this Challenge
+
+**Today's Progress**: Started with the Coding Ninja tutorial and completed 1 section.Second section almost half is completed. 
+
+**Thoughts:** Reached that part of the journey where everything is just hard.
+
+**Link to work:** 
+
