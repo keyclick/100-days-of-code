@@ -32,6 +32,15 @@
 
 **Today's Progress**: Started with the Coding Ninja tutorial and completed 1 section.Second section almost half is completed. 
 
+
+Day 4: March 2, 2022
+Fourth Day of this Challenge
+Today's Progress: Completed some tasks in the coding Ninja. Also, some tasks in the freecodecamp
+
+Thoughts: Fearful of the stupid brain resistance to new information. But working against it.
+
+Link to work:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-property-names-with-bracket-notation
+
 **Thoughts:** Reached that part of the journey where everything is just hard.
 
 **Link to work:** 
