@@ -45,3 +45,29 @@ Link to work:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-s
 
 **Link to work:** 
 
+
+Day 5: March 3, 2022
+Fourth Day of this Challenge
+Today's Progress: Completed some tasks in the coding Ninja. Also, some tasks in the freecodecamp
+
+Thoughts: Fearful of the stupid brain resistance to new information. But working against it.
+
+Link to work:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-property-names-with-bracket-notation
+
+**Thoughts:** Reached that part of the journey where everything is just hard.
+
+**Link to work:** 
+
+
+Day 5: March 4, 2022
+Fourth Day of this Challenge
+Today's Progress: Completed one module in coding ninjas
+
+Thoughts: So tired today because of the hard work. Had to loose myself. Plus its friday
+
+Link to work:
+
+**Thoughts:** I'm not giving up, just that I am tired
+
+**Link to work:** : Cannot link cuz the work is pass protected.    :(
+
