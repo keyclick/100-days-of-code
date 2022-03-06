@@ -59,8 +59,8 @@ Link to work:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-s
 **Link to work:** 
 
 
-Day 5: March 4, 2022
-Fourth Day of this Challenge
+Day 6: March 4, 2022
+
 Today's Progress: Completed one module in coding ninjas
 
 Thoughts: So tired today because of the hard work. Had to loose myself. Plus its friday
@@ -70,4 +70,19 @@ Link to work:
 **Thoughts:** I'm not giving up, just that I am tired
 
 **Link to work:** : Cannot link cuz the work is pass protected.    :(
+
+Day 6: March 5, 2022
+Today's Progress: Completed half a module in coding ninjas
+Thoughts: So tired today because of the hard work. Had to loose myself. Plus its friday
+Link to work:
+**Thoughts:** I'm not giving up, just that I am tired
+**Link to work:** : Cannot link cuz the work is pass protected.    :(
+
+Day 7: March 6, 2022
+Today's Progress: Still on the same module as yesterday
+Thoughts: The salary finder problem was so difficult because I forgot all the basics
+Link to work:
+**Thoughts:** I'm not giving up,
+**Link to work:** : Cannot link cuz the work is pass protected.    :(
+
 
